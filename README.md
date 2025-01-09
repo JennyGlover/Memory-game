@@ -9,7 +9,6 @@ This project is an interactive **memory card game** where players flip cards to 
 https://jennyglover.github.io/Memory-game/
 
 ![Project screenshot](images/matches1.png)
-![Project screenshot](images/matches3.png)
 
 
 ## **Features**
